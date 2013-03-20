@@ -1,0 +1,33 @@
+#Header{
+	background-color:#CC33FF;
+	height:150px;
+	font-family:calibri;
+	font-size:72px;
+	color:#FFFFFF;
+	text-align: center;
+}
+
+#Menu{
+	background-color:#0000CC;
+	height:300px;
+	width:150px;
+}
+
+#iklan{
+	background-color:#0033CC;
+	height:300px;
+	width:150px;
+}
+
+#footer{
+	background-color:#CC33FF;
+	height:150px;
+}
+
+#Konten{
+	font-family:verdana;
+	font-size:12px;
+	color:#FFFFFF;
+	padding:10px;
+	background-color:#000000;
+}
